@@ -8,13 +8,7 @@ The "react-quiz" app was created using basic react libraries, redux and google f
 
 ## Technologies
 
-### `react`
-
-### `react router`
-
-### `redux`
-
-### `google firebase`
+`react`, `react router`, `redux`, `google firebase`
 
 # Getting Started with Create React App
 
