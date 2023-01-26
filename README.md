@@ -1,3 +1,21 @@
+# Description
+
+The "react-quiz" app was created using basic react libraries, redux and google firebase for data saving and hosting
+
+## App url
+
+[React-quiz app url](https://react-quiz-9536d.firebaseapp.com/)
+
+## Technologies
+
+### `react`
+
+### `react router`
+
+### `redux`
+
+### `google firebase`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
